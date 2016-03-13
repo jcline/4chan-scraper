@@ -1,0 +1,15 @@
+4chan-scraper
+
+A simple tool for dumping all of the images in a thread on 4chan.
+
+Usage:
+
+./4chan-scraper -url <thread url>
+
+Todo:
+
+ - Implement support for tracking already retrieved images/watching a thread
+   for more images.
+ - Rate limiting
+ - Multiple threads simultaneously
+
